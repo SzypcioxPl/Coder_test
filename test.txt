@@ -1,2 +1,2 @@
 Tutaj wklejam tekst który może powodować błąd, jest to gałąź main.
-Dodano drugi commit.
+Dodano trzeci commit.
