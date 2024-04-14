@@ -1,1 +1,1 @@
-Tutaj wklejam tekst który może powodować błąd, jest to gałąź feature-b.
+Tutaj wklejam tekst który może powodować błąd, jest to gałąź main.
